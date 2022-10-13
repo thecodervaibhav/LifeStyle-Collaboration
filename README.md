@@ -14,7 +14,7 @@ LifeStylestore is a online shoping website where you can purchase or sell produc
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
-<h2 align="left"><i>You can find Deploy link here</i></h2>
+<h2 align="left"><i>You can find Deploy link here</i></h2>  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <h3 align="left"><a href="https://ubiquitous-moonbeam-0077c0.netlify.app/" target="_blank"> Lifestylestore.com ( https://ubiquitous-moonbeam-0077c0.netlify.app )</a></h3>
 
 
